@@ -20,7 +20,7 @@ line 57 column 5 - Warning: discarding unexpected <template>
 line 59 column 13 - Error: <oxd-text> is not recognized!
 line 59 column 13 - Warning: discarding unexpected <oxd-text>
 line 59 column 77 - Warning: discarding unexpected </oxd-text>
-line 60 column 2 - Error: <oxd-text> is not recognized!
+line 60 column 2 - Error: <oxd-text> is not recognized!!
 line 60 column 2 - Warning: discarding unexpected <oxd-text>
 line 60 column 157 - Warning: discarding unexpected </oxd-text>
 line 62 column 1 - Warning: discarding unexpected </template>
